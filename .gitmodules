@@ -1,0 +1,4 @@
+[submodule "talesandtales/public"]
+	path = talesandtales/public
+	url = https://github.com/chillchill011/talesandtales.github.io.git
+	branch = main
