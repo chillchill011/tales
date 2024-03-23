@@ -8,12 +8,15 @@ module:
 
 menu:
   main:
-    - name: Blog
-      pageRef: /blog
-      weight: 2
+    - name: Reviews
+      pageRef: /reviews
+      weight: 1
     - name: About
       pageRef: /about
       weight: 3
+    - name: Stories
+      pageref: /stories
+      weight: 2  
     - name: Search
       weight: 4
       params:
@@ -26,6 +29,16 @@ menu:
     - name: "About"
       pageRef: "/about"
       weight: 2
-    - name: "Blog"
-      url: "/blog"
+    - name: "Reviews"
+      url: "/reviews"
       weight: 3
+
+blog:
+  list:
+    displayTags: true
+
+footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
