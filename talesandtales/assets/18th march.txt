@@ -1,0 +1,20 @@
+---
+week: 2024-W12
+month: 2024-03
+year: 2024
+Early_wakeup: "5.58"
+Excercise: true
+Healthy_food: true
+Learn_Language: false
+Play_with_Lucy: true
+Night_Brush: true
+---
+
+[[Journal/Daily/2024-03-17|Yesterday]] <-> [[Journal/Daily/2024-03-19|Tomorrow]]
+Week Summary: [[2024-W12]]
+
+## Journal
+- Attended yoga session. Was too tired due to lack of sleep.
+- Normal day at work. Learned [[Hugo]]. This file was created in the office itself.
+- Now learning the next thing, cloud hosting.
+- Issue with website on server. Need to work on it.
